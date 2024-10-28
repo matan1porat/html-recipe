@@ -1,1 +1,1 @@
-# html-recipe
+# index.html
